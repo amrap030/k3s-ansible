@@ -1,0 +1,5 @@
+vault:
+  username: "xxx"
+  apiserver_endpoint: "x.x.x.x"
+  k3s_secret: "***"
+  mlb_ip_range: "x.x.x.x-x.x.x.x"
